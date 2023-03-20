@@ -1,0 +1,27 @@
+name: pages
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    name: GitHub Pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build GH Pages release
+        run: |
+          npm run build:deploy-ghpages
+      - name: Build GH Pages settings
+        run: |
+          touch ./dist/.nojekyll
+      - name: Deploy to GH Pages branch 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: dist # The folder the action should deploy.
+          CLEAN: true
