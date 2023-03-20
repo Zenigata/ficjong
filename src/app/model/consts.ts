@@ -61,6 +61,7 @@ export const Backgrounds: Array<{ img?: string; name: string; small?: boolean }>
 ];
 
 export const ImageSets = [
+	{id: 'ficson', type: 'PNG', name: 'Ficson'},
 	{id: 'riichi', type: 'SVG', name: 'Riichi'},
 	{id: 'uni', type: 'SVG', name: 'Uni'},
 	{id: 'bzhmaddog', type: 'SVG', name: 'Bzhmaddog'},
@@ -72,8 +73,7 @@ export const ImageSets = [
 	{id: 'open-fruits', type: 'PNG', name: 'Fruits'},
 	{id: 'picasso', type: 'PNG', name: 'Picasso'},
 	{id: 'modern', type: 'PNG', name: 'Modern'},
-	{id: 'classic', type: 'PNG', name: 'Classic'},
-	{id: 'ficson', type: 'PNG', name: 'Ficson'}
+	{id: 'classic', type: 'PNG', name: 'Classic'}
 ];
 
 export const ImageSetDefault = 'riichi';
