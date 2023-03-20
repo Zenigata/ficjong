@@ -76,7 +76,7 @@ export const ImageSets = [
 	{id: 'classic', type: 'PNG', name: 'Classic'}
 ];
 
-export const ImageSetDefault = 'riichi';
+export const ImageSetDefault = 'ficson';
 
 export const TILES: Array<[string, string, string, string]> = [
 	['t_do1', 't_do1', 't_do1', 't_do1'],

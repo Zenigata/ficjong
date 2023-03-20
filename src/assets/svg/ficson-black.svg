@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="675" height="800">
+    <defs>
+			<image id="t_do1" xlink:href="./ficson/01.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do2" xlink:href="./ficson/02.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do3" xlink:href="./ficson/03.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do4" xlink:href="./ficson/04.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do5" xlink:href="./ficson/05.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do6" xlink:href="./ficson/06.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do7" xlink:href="./ficson/07.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do8" xlink:href="./ficson/08.png" x="0" y="0" height="88px" width="63px"/>
+			<image id="t_do9" xlink:href="./ficson/09.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_ba1" xlink:href="./ficson/10.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba2" xlink:href="./ficson/11.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba3" xlink:href="./ficson/12.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba4" xlink:href="./ficson/13.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba5" xlink:href="./ficson/14.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba6" xlink:href="./ficson/15.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba7" xlink:href="./ficson/16.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba8" xlink:href="./ficson/17.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ba9" xlink:href="./ficson/18.png" x="0" y="0" height="88px" width="63px"/>
+
+				<image id="t_ch1" xlink:href="./ficson/19.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch2" xlink:href="./ficson/20.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch3" xlink:href="./ficson/21.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch4" xlink:href="./ficson/22.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch5" xlink:href="./ficson/23.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch6" xlink:href="./ficson/24.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch7" xlink:href="./ficson/25.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch8" xlink:href="./ficson/26.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_ch9" xlink:href="./ficson/27.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_se_spring" xlink:href="./ficson/28.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_se_summer" xlink:href="./ficson/28.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_se_fall" xlink:href="./ficson/28.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_se_winter" xlink:href="./ficson/28.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_wi_north" xlink:href="./ficson/29.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_wi_south" xlink:href="./ficson/30.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_wi_east" xlink:href="./ficson/31.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_wi_west" xlink:href="./ficson/32.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_fl_bamboo" xlink:href="./ficson/33.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_fl_chrysanthemum" xlink:href="./ficson/33.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_fl_orchid" xlink:href="./ficson/33.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_fl_plum" xlink:href="./ficson/33.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_dr_green" xlink:href="./ficson/34.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_dr_white" xlink:href="./ficson/35.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_dr_red" xlink:href="./ficson/36.png" x="0" y="0" height="88px" width="63px"/>
+
+        <image id="t_g1" xlink:href="./ficson/37.png" x="0" y="0" height="88px" width="63px"/>
+				<image id="t_g2" xlink:href="./ficson/38.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g3" xlink:href="./ficson/39.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g4" xlink:href="./ficson/40.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g5" xlink:href="./ficson/41.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g6" xlink:href="./ficson/42.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g7" xlink:href="./ficson/43.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g8" xlink:href="./ficson/44.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g9" xlink:href="./ficson/45.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g10" xlink:href="./ficson/46.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g11" xlink:href="./ficson/47.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g12" xlink:href="./ficson/48.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g13" xlink:href="./ficson/49.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g14" xlink:href="./ficson/50.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g15" xlink:href="./ficson/51.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g16" xlink:href="./ficson/52.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g17" xlink:href="./ficson/53.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_g18" xlink:href="./ficson/54.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e1" xlink:href="./ficson/55.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e2" xlink:href="./ficson/56.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e3" xlink:href="./ficson/57.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e4" xlink:href="./ficson/58.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e5" xlink:href="./ficson/59.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e6" xlink:href="./ficson/60.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e7" xlink:href="./ficson/61.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e8" xlink:href="./ficson/62.png" x="0" y="0" height="88px" width="63px"/>
+        <image id="t_e9" xlink:href="./ficson/63.png" x="0" y="0" height="88px" width="63px"/>
+    </defs>
+		<g id="t_preview">
+		<use x="0" y="0" height="100px" width="75px" xlink:href="#t_do1"/>
+		<use x="75" y="0" height="100px" width="75px" xlink:href="#t_do2"/>
+		<use x="150" y="0" height="100px" width="75px" xlink:href="#t_do3"/>
+		<use x="225" y="0" height="100px" width="75px" xlink:href="#t_do4"/>
+		<use x="300" y="0" height="100px" width="75px" xlink:href="#t_do5"/>
+		<use x="375" y="0" height="100px" width="75px" xlink:href="#t_do6"/>
+		<use x="450" y="0" height="100px" width="75px" xlink:href="#t_do7"/>
+		<use x="525" y="0" height="100px" width="75px" xlink:href="#t_do8"/>
+		<use x="600" y="0" height="100px" width="75px" xlink:href="#t_do9"/>
+		<use x="0" y="100" height="100px" width="75px" xlink:href="#t_ch1"/>
+		<use x="75" y="100" height="100px" width="75px" xlink:href="#t_ch2"/>
+		<use x="150" y="100" height="100px" width="75px" xlink:href="#t_ch3"/>
+		<use x="225" y="100" height="100px" width="75px" xlink:href="#t_ch4"/>
+		<use x="300" y="100" height="100px" width="75px" xlink:href="#t_ch5"/>
+		<use x="375" y="100" height="100px" width="75px" xlink:href="#t_ch6"/>
+		<use x="450" y="100" height="100px" width="75px" xlink:href="#t_ch7"/>
+		<use x="525" y="100" height="100px" width="75px" xlink:href="#t_ch8"/>
+		<use x="600" y="100" height="100px" width="75px" xlink:href="#t_ch9"/>
+		<use x="0" y="200" height="100px" width="75px" xlink:href="#t_ba1"/>
+		<use x="75" y="200" height="100px" width="75px" xlink:href="#t_ba2"/>
+		<use x="150" y="200" height="100px" width="75px" xlink:href="#t_ba3"/>
+		<use x="225" y="200" height="100px" width="75px" xlink:href="#t_ba4"/>
+		<use x="300" y="200" height="100px" width="75px" xlink:href="#t_ba5"/>
+		<use x="375" y="200" height="100px" width="75px" xlink:href="#t_ba6"/>
+		<use x="450" y="200" height="100px" width="75px" xlink:href="#t_ba7"/>
+		<use x="525" y="200" height="100px" width="75px" xlink:href="#t_ba8"/>
+		<use x="600" y="200" height="100px" width="75px" xlink:href="#t_ba9"/>
+		<use x="0" y="300" height="100px" width="75px" xlink:href="#t_wi_north"/>
+		<use x="75" y="300" height="100px" width="75px" xlink:href="#t_wi_west"/>
+		<use x="150" y="300" height="100px" width="75px" xlink:href="#t_wi_south"/>
+		<use x="225" y="300" height="100px" width="75px" xlink:href="#t_wi_east"/>
+		<use x="375" y="300" height="100px" width="75px" xlink:href="#t_fl_plum"/>
+		<use x="450" y="300" height="100px" width="75px" xlink:href="#t_fl_orchid"/>
+		<use x="525" y="300" height="100px" width="75px" xlink:href="#t_fl_chrysanthemum"/>
+		<use x="600" y="300" height="100px" width="75px" xlink:href="#t_fl_bamboo"/>
+		<use x="0" y="400" height="100px" width="75px" xlink:href="#t_se_spring"/>
+		<use x="75" y="400" height="100px" width="75px" xlink:href="#t_se_summer"/>
+		<use x="150" y="400" height="100px" width="75px" xlink:href="#t_se_fall"/>
+		<use x="225" y="400" height="100px" width="75px" xlink:href="#t_se_winter"/>
+		<use x="450" y="400" height="100px" width="75px" xlink:href="#t_dr_red"/>
+		<use x="525" y="400" height="100px" width="75px" xlink:href="#t_dr_green"/>
+		<use x="600" y="400" height="100px" width="75px" xlink:href="#t_dr_white"/>
+
+		<use x="0" y="500" height="100px" width="75px" xlink:href="#t_g1"/>
+		<use x="75" y="500" height="100px" width="75px" xlink:href="#t_g2"/>
+		<use x="150" y="500" height="100px" width="75px" xlink:href="#t_g3"/>
+		<use x="225" y="500" height="100px" width="75px" xlink:href="#t_g4"/>
+		<use x="300" y="500" height="100px" width="75px" xlink:href="#t_g5"/>
+		<use x="375" y="500" height="100px" width="75px" xlink:href="#t_g6"/>
+		<use x="450" y="500" height="100px" width="75px" xlink:href="#t_g7"/>
+		<use x="525" y="500" height="100px" width="75px" xlink:href="#t_g8"/>
+		<use x="600" y="500" height="100px" width="75px" xlink:href="#t_g9"/>
+		<use x="0" y="600" height="100px" width="75px" xlink:href="#t_g10"/>
+		<use x="75" y="600" height="100px" width="75px" xlink:href="#t_g11"/>
+		<use x="150" y="600" height="100px" width="75px" xlink:href="#t_g12"/>
+		<use x="225" y="600" height="100px" width="75px" xlink:href="#t_g13"/>
+		<use x="300" y="600" height="100px" width="75px" xlink:href="#t_g14"/>
+		<use x="375" y="600" height="100px" width="75px" xlink:href="#t_g15"/>
+		<use x="450" y="600" height="100px" width="75px" xlink:href="#t_g16"/>
+		<use x="525" y="600" height="100px" width="75px" xlink:href="#t_g17"/>
+		<use x="600" y="600" height="100px" width="75px" xlink:href="#t_g18"/>
+
+		<use x="0" y="700" height="100px" width="75px" xlink:href="#t_e1"/>
+		<use x="75" y="700" height="100px" width="75px" xlink:href="#t_e2"/>
+		<use x="150" y="700" height="100px" width="75px" xlink:href="#t_e3"/>
+		<use x="225" y="700" height="100px" width="75px" xlink:href="#t_e4"/>
+		<use x="300" y="700" height="100px" width="75px" xlink:href="#t_e5"/>
+		<use x="375" y="700" height="100px" width="75px" xlink:href="#t_e6"/>
+		<use x="450" y="700" height="100px" width="75px" xlink:href="#t_e7"/>
+		<use x="525" y="700" height="100px" width="75px" xlink:href="#t_e8"/>
+		<use x="600" y="700" height="100px" width="75px" xlink:href="#t_e9"/>
+	</g>
+</svg>
+
