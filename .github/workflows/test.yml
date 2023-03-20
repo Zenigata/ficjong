@@ -3,11 +3,11 @@ name: test
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ test ]
     tags-ignore:
       - 'v*'
   pull_request:
-    branches: [ main ]
+    branches: [ test ]
 
 jobs:
   build:
