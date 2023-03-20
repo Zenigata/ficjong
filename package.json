@@ -1,10 +1,10 @@
 {
-  "name": "mah",
+  "name": "ficjong",
   "version": "1.6.1",
-  "author": "ffalt",
+  "author": "zenigata",
   "license": "MIT",
   "description": "a html5 mahjong solitaire game",
-  "repository": "https://github.com/ffalt/mah.git",
+  "repository": "https://github.com/Zenigata/ficjong.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -16,7 +16,7 @@
     "build:deploy-release": "npm run build:prebuild && ng build --configuration production --aot --base-href \".\"",
     "build:capacitor": "npm run build:prebuild && ng build --configuration capacitor --aot --base-href \".\"",
     "build:deploy-root": "npm run build:prebuild && ng build --configuration production --aot --base-href \"/\"",
-    "build:deploy-ghpages": "npm run build:prebuild && ng build --configuration production --aot --base-href \"https://ffalt.github.io/mah/\"",
+    "build:deploy-ghpages": "npm run build:prebuild && ng build --configuration production --aot --base-href \"https://zenigata.github.io/ficjong/\"",
     "build:releaselog": "conventional-changelog -p angular -r 2 -o RELEASELOG.md",
     "explore-map-explorer": "source-map-explorer dist/**/*.js",
     "explore": "npm run build:analyze:prod && npm run explore-map-explorer",
