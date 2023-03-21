@@ -4,7 +4,7 @@
 A Mahjong Solitaire Game with audio drama covers.  
 Based on Mah by ffalt.
 
-Play it [here](https://zenigata.github.io/ficjong/)  
+Play it [here](https://zenigata.github.io/ficjong/).
 
 Built with html5, svg, angular.
 
