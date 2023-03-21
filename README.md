@@ -1,10 +1,12 @@
-# Mah
+# Fic Jong
 
-A Mahjong Solitaire Game
 
-Play it [here](https://ffalt.github.io/mah/)  
+A Mahjong Solitaire Game with audio drama covers.  
+Based on Mah by ffalt.
 
-build with html5, svg, angular
+Play it [here](https://zenigata.github.io/ficjong/)  
+
+Built with html5, svg, angular.
 
 [![license](https://img.shields.io/github/license/ffalt/mah.svg)](http://opensource.org/licenses/MIT)
 ![test](https://github.com/ffalt/mah/workflows/test/badge.svg)
