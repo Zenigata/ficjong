@@ -1,11 +1,5 @@
 # Fic Jong
 
-
-A Mahjong Solitaire Game with audio drama covers.  
-Based on Mah by ffalt.
-
-Play it [here](https://zenigata.github.io/ficjong/).
-
 Built with html5, svg, angular.
 
 [![license](https://img.shields.io/github/license/ffalt/mah.svg)](http://opensource.org/licenses/MIT)
@@ -13,6 +7,14 @@ Built with html5, svg, angular.
 [![developer](https://img.shields.io/badge/developer-awesome-brightgreen.svg)](https://github.com/ffalt/mah)
 [![known vulnerabilities](https://snyk.io/test/github/ffalt/mah/badge.svg)](https://snyk.io/test/github/ffalt/mah)
 [![codebeat badge](https://codebeat.co/badges/021d3bc7-e512-473b-b99e-80e7650ba57f)](https://codebeat.co/projects/github-com-ffalt-mah-main)
+
+Un jeu de Mahjong solitaire avec des pochettes de fiction sonore.  
+Fork du jeu Mah de ffalt.
+
+Jouez [en ligne !](https://zenigata.github.io/ficjong/)
+
+## Les pochettes sont la propriété de leurs auteurs
+[![1287](/src/assets/svg/ficson/01.png)](http://1287.aerrond.com/)
 
 ## Build Config
 
